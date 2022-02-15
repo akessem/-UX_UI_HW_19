@@ -363,6 +363,7 @@ ul {
   transition: all 0.2s ease-in-out;
   width: 290px;
   height: 165px;
+  margin: 50px;
 }
 #uofM:hover {
   transform: scale(1.1);
@@ -371,6 +372,7 @@ ul {
   transition: all 0.2s ease-in-out;
   width: 300px;
   height: 150px;
+  margin: 50px;
 }
 #uxcert:hover {
   transform: scale(1.1);
@@ -379,6 +381,7 @@ ul {
   transition: all 0.2s ease-in-out;
   width: 300px;
   height: 150px;
+  margin: 50px;
 }
 #data:hover {
   transform: scale(1.1);
