@@ -344,7 +344,7 @@ ul {
   padding-left: 40px;
 }
 .certifications {
-  margin-top: 100px;
+  margin-top: 75px;
   background-color: #f5fafd;
   width: 100%;
   height: 256px;
@@ -361,18 +361,24 @@ ul {
 }
 #uofM {
   transition: all 0.2s ease-in-out;
+  width: 290px;
+  height: 165px;
 }
 #uofM:hover {
   transform: scale(1.1);
 }
-uxcert #uxcert {
+#uxcert {
   transition: all 0.2s ease-in-out;
+  width: 300px;
+  height: 150px;
 }
 #uxcert:hover {
   transform: scale(1.1);
 }
 #data {
   transition: all 0.2s ease-in-out;
+  width: 300px;
+  height: 150px;
 }
 #data:hover {
   transform: scale(1.1);
